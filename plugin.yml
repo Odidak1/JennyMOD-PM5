@@ -1,0 +1,16 @@
+---
+name: JennyMOD
+main: Odidak\JennyMOD\Main
+version: 1.0.0
+api: 5.0.0
+author: Odidak
+
+commands:
+  jenny:
+    description: "JennyMOD PM5 by Odidak"
+    permission: jennymod.odidak.cmd
+
+permissions:
+  jennymod.odidak.cmd:
+    description: "Usage /jenny"
+    default: true
